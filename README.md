@@ -94,3 +94,6 @@ The following tools were used in the construction of the project:
 ## Author
 
 Daafiq Dahdal Rabbani
+
+
+<!-- Security scan triggered at 2026-09-05 07:38:36 -->
